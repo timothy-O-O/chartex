@@ -1,0 +1,7 @@
+PyQt5>=5.15
+pyqtgraph>=0.13
+pandas>=1.5
+numpy>=1.23
+yfinance>=0.2
+# 用 IBKR 先需要:
+# ib_insync>=0.9
