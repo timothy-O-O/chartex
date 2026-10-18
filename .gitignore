@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 數據 (唔好上載: 檔案大 + 版權)
+data/
+*.csv
+*.txt
+!requirements.txt
+*.parquet
+
+# 工作區 / 個人設定
+*.json
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
